@@ -33,6 +33,7 @@ struct LandmarkList: View {
                 }
             }
             .navigationTitle("Landmarks")
+            .listRowInsets(EdgeInsets())
         }
     }
 }

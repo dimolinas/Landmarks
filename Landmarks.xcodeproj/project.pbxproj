@@ -178,10 +178,10 @@
 		5255825A29CD4ACA00E3C39F /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				5255822829CD3B4E00E3C39F /* ContentView.swift */,
 				5255827929CE23A800E3C39F /* Hikes */,
 				5255827429CE206900E3C39F /* Badges */,
 				5255826729CE1C3500E3C39F /* Categories */,
-				5255822829CD3B4E00E3C39F /* ContentView.swift */,
 				5255826629CE059300E3C39F /* Landmarks */,
 				5255826529CE058700E3C39F /* Helpers */,
 			);
