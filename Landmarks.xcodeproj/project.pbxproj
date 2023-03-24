@@ -40,6 +40,8 @@
 		5255828729CE374500E3C39F /* Profile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5255828629CE374500E3C39F /* Profile.swift */; };
 		5255828A29CE38C800E3C39F /* ProfileHost.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5255828929CE38C800E3C39F /* ProfileHost.swift */; };
 		5255828C29CE392800E3C39F /* ProfileSummary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5255828B29CE392800E3C39F /* ProfileSummary.swift */; };
+		5255828E29CE3B2800E3C39F /* HikeBadge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5255828D29CE3B2800E3C39F /* HikeBadge.swift */; };
+		5255829029CE41D600E3C39F /* ProfileEditor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5255828F29CE41D600E3C39F /* ProfileEditor.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -96,6 +98,8 @@
 		5255828629CE374500E3C39F /* Profile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Profile.swift; sourceTree = "<group>"; };
 		5255828929CE38C800E3C39F /* ProfileHost.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileHost.swift; sourceTree = "<group>"; };
 		5255828B29CE392800E3C39F /* ProfileSummary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileSummary.swift; sourceTree = "<group>"; };
+		5255828D29CE3B2800E3C39F /* HikeBadge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HikeBadge.swift; sourceTree = "<group>"; };
+		5255828F29CE41D600E3C39F /* ProfileEditor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileEditor.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -264,6 +268,7 @@
 				5255827B29CE23A800E3C39F /* HikeGraph.swift */,
 				5255827C29CE23A800E3C39F /* HikeDetail.swift */,
 				5255827D29CE23A800E3C39F /* HikeView.swift */,
+				5255828D29CE3B2800E3C39F /* HikeBadge.swift */,
 			);
 			path = Hikes;
 			sourceTree = "<group>";
@@ -273,6 +278,7 @@
 			children = (
 				5255828929CE38C800E3C39F /* ProfileHost.swift */,
 				5255828B29CE392800E3C39F /* ProfileSummary.swift */,
+				5255828F29CE41D600E3C39F /* ProfileEditor.swift */,
 			);
 			path = Profile;
 			sourceTree = "<group>";
@@ -427,10 +433,12 @@
 				5255827329CE206500E3C39F /* Badge.swift in Sources */,
 				5255826229CD4F2F00E3C39F /* LandmarkDetail.swift in Sources */,
 				5255826D29CE1E0500E3C39F /* BadgeBackground.swift in Sources */,
+				5255829029CE41D600E3C39F /* ProfileEditor.swift in Sources */,
 				5255825129CD416900E3C39F /* CircleImage.swift in Sources */,
 				5255827E29CE23A800E3C39F /* GraphCapsule.swift in Sources */,
 				5255828A29CE38C800E3C39F /* ProfileHost.swift in Sources */,
 				5255828129CE23A800E3C39F /* HikeView.swift in Sources */,
+				5255828E29CE3B2800E3C39F /* HikeBadge.swift in Sources */,
 				5255825729CD483D00E3C39F /* Landmark.swift in Sources */,
 				5255825E29CD4C6700E3C39F /* LandmarkRow.swift in Sources */,
 				5255825929CD4A6900E3C39F /* ModelData.swift in Sources */,
